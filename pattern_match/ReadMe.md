@@ -1,0 +1,7 @@
+chapter 18 Patterns and matching
+
+trait object
+points to both an instance of a type implementing our specified trait as well as
+a table used to look up trait methods on that type at runtime
+
+Self keyword is an alias for type we are implementing the traits or methods on.
